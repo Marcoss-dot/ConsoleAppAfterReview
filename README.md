@@ -26,10 +26,10 @@ dataa.csv zamiast data.csv
 	propozycja rozwiązania:
 		ImportedObjects = new List<ImportedObject>();
 
-===============
+
 te 5 poprawek pozwala na wykonanie programu i wydrukowanie efektu na konsoli 
 niestety z optymalizacyjnego punktu widzenia kod warto poprawić pod innymi względami niż poprawność oczekiwanego działnia 
-===============
+
 
 UWAGI Ogólne: 
 6. Typy danych w klasie ImportedObject
